@@ -5,7 +5,7 @@ class Politician
     @party = party
   end
 end
-
+# i hacked alex  >=]
 politicians = []
 
 politicians << Politician.new("Donald", "Republican")
